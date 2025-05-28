@@ -1,0 +1,24 @@
+#numberCounter {
+    display: block;
+    font-family: Helvetica;
+    font-size: 6em;
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+}
+
+.buttons {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.5em;
+    background-color:lightskyblue;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover {
+    background-color: blue;
+}
